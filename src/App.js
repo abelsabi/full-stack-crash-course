@@ -1,4 +1,3 @@
-import userEvent from '@testing-library/user-event';
 import { useEffect, useState } from 'react';
 import supabase from './supabase';
 import './style.css';
